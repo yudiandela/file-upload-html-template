@@ -1,0 +1,21 @@
+{
+  "name": "file-upload-template",
+  "version": "1.0.0",
+  "description": "Template Manajemen dan Upload File",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudiandela/file-upload-html-template.git"
+  },
+  "author": "Yudi Andela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yudiandela/file-upload-html-template/issues"
+  },
+  "homepage": "https://github.com/yudiandela/file-upload-html-template#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.4.2",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
