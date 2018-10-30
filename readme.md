@@ -10,6 +10,7 @@ Dibangun menggunakan framework [Bootstrap 4](https://getbootstrap.com) dan [jQue
 * [Bootstrap 4](https://getbootstrap.com)
 * [jQuery 3.3.1](http://jquery.com/)
 * [Font Awesome 5](https://fontawesome.com/)
+* [Jquery Toast Plugin](https://kamranahmed.info/toast/)
 
 ## Tampilan
 
