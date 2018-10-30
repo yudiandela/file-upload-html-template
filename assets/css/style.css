@@ -1,0 +1,22 @@
+body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 14px;
+}
+
+/**
+ * Navbar
+ */
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0, .9);
+}
+
+.top-nav {
+    margin-right: -5px;
+}
+
+.top-nav li {
+    margin: 0 15px;
+}
+.top-nav li::after {
+    margin: 0;
+}
