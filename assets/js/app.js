@@ -37,7 +37,16 @@ submitButton.click(function() {
         data: form.serialize(),
         // method: 'post',
         success: function() {
-            alert('AJax Succcess ' + this.url + ' ' + this.data)
+            $.toast({
+                text: 'Upload Success',
+                position: 'top-center',
+                stack: false,
+                hideAfter: 5000,
+                icon: 'success',
+                textAlign: 'center',
+                loader: true,        // Change it to false to disable loader
+                loaderBg: '#9EC600'  // To change the background
+            })
         },
         error: function () {
             alert('Ajax Error ' + this.url + ' ' + this.data)
