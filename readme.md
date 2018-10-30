@@ -13,7 +13,7 @@ Dibangun menggunakan framework [Bootstrap 4](https://getbootstrap.com) dan [jQue
 
 ## Tampilan
 
-Belum ada tampilan untuk saat ini
+![Template Preview](https://github.com/yudiandela/file-upload-html-template/raw/master/new-template-preview.png "Template Preview")
 
 ## Author
 
